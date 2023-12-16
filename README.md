@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yoon-Hee-Jae
 - 👀 I’m interested in ... data analystic
-- 🌱 I’m currently learning ... NLP, ML, DL etc..
+- 🌱 I’m currently learning ... NLP, Marketing, Customer experience etc..
 - 💞️ I’m looking to collaborate on ... place where i need
 - 📫 How to reach me ... email me on gmlwo2969@naver.com
 

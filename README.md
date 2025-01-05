@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yoon-Hee-Jae
+- 👋 Hi, I’m @Heejae Yoon
 - 👀 I’m interested in ... data analystic
 - 🌱 I’m currently learning ... NLP, Marketing, Customer experience etc..
 - 💞️ I’m looking to collaborate on ... place where i need
